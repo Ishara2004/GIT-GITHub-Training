@@ -1,0 +1,1 @@
+this is stash lec, change the test05 file.to learn untracked and modified file stash
